@@ -1,0 +1,10 @@
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.csproj.AssemblyReference.cache
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.Properties.Resources.resources
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.csproj.GenerateResource.cache
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.csproj.CoreCompileInputs.cache
+D:\HighLevelProgLabs\FarmLab\FarmLab\bin\Debug\FarmLab.exe.config
+D:\HighLevelProgLabs\FarmLab\FarmLab\bin\Debug\FarmLab.exe
+D:\HighLevelProgLabs\FarmLab\FarmLab\bin\Debug\FarmLab.pdb
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.exe
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.pdb
+D:\HighLevelProgLabs\FarmLab\FarmLab\obj\Debug\FarmLab.Form.resources
